@@ -14,12 +14,12 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '4915510394223',
- pairingNumber : '4915510394223',
+ nomerbot : '212603639695',
+ pairingNumber : '212603639695',
  figlet: 'loidefrotira', // create a start console display
  nomorwa : '212701810216',
  nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomerown : '212701810216',
  packname : 'sticker by ',
  author : '🄻🄾🄸🄳🄴 🄵🅁🄾🅃🄸🅁🄰 AI',
  namebot : '乂 𝕝𝕠𝕚𝕕𝕖 𝕗𝕣𝕠𝕥𝕚𝕣𝕒 AI',
